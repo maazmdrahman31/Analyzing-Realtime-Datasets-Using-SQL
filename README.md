@@ -14,8 +14,11 @@ Introduction
 
 
 1-Socioeconomic Indicators in Chicago
+
 2-Chicago Public Schools
+
 3-Chicago Crime Data
+
 
 1. Socioeconomic Indicators in Chicago
 This dataset contains a selection of six socioeconomic indicators of public health significance and a “hardship index,” for each Chicago community area, for the years 2008 – 2012.
