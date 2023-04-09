@@ -3,10 +3,15 @@
 Introduction
 
 1.Understand three Chicago datasets.
+
 2.Load the three datasets into three tables in a Db2 database.
+
 3.Execute SQL queries to answer assignment questions.
+
 4.Understand the datasets.
+
 -To complete the assignment problems in this notebook you will be using three datasets that are available on the city of Chicago's Data Portal:
+
 
 1-Socioeconomic Indicators in Chicago
 2-Chicago Public Schools
